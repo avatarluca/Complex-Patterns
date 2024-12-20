@@ -1,2 +1,2 @@
-# Complex-Patterns
+# Complex Patterns
 Complex patterns in a simple system
